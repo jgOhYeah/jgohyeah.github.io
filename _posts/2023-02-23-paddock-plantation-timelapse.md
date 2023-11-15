@@ -2,8 +2,8 @@
 layout: post
 title:  "Paddock plantation timelapse"
 date:   2023-02-23 00:00:00 +1100
-categories: Photography
-tags: timelapse photography
+categories: farm
+tags: timelapse photography farm
 thumbnail: "/assets/images/pandemic-plantation-timelapse.jpg"
 permalink: /PaddockPlantationTimelapse.html
 ---

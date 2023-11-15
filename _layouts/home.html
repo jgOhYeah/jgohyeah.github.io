@@ -34,9 +34,11 @@ layout: base
         {%- if site.show_excerpts -%}
           <div class="preview-container">
             {%- if post.thumbnail -%}
-            <a href="{{ post.url | relative_url }}">
-              <img class="preview-thumbnail" src="{{ post.thumbnail }}" alt="Thumbnail for {{ post.title }}">
-            </a>
+            <div class="preview-thumbnail-container">
+              <a href="{{ post.url | relative_url }}">
+                <img class="preview-thumbnail" src="{{ post.thumbnail }}" alt="Thumbnail for {{ post.title }}">
+              </a>
+            </div>
             {%- endif -%}
             {{ post.excerpt }}
           </div>

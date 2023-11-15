@@ -3,18 +3,32 @@
 
 @import "{{ site.theme }}";
 
+p {
+    text-align: justify;
+}
+
 .preview-container::after { 
     content: " ";
     display: block; 
     height: 0; 
     clear: both;
- }
- 
+}
 
-.preview-thumbnail {
+.preview-thumbnail-container {
     width: 250px;
     float: left;
     margin: 0 15px 15px 0;
+}
+
+.preview-thumbnail-container a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.preview-thumbnail {
+    max-width: 250px;
+    max-height: 187.5px;
 }
 
 .embedded-4by3 {
@@ -46,6 +60,7 @@ $github-colour: rgb(101, 109, 118);
 
 .github-bookmark img {
     margin-bottom: 7px;
+    width: 200px;
 }
 
 .github-explainer {
@@ -57,6 +72,12 @@ $github-colour: rgb(101, 109, 118);
 
 .github-repo-icon {
     fill: $github-colour;
+}
+
+.centred {
+    text-align: center;
+    margin: 0 auto;
+    display: block;
 }
 
 @media only screen and (max-width: 600px) {
