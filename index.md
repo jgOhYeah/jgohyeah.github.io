@@ -1,11 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 title: Home
+list_title: Projects and posts
 ---
 
-## Hello everyone
-
-I am still working on this website.
+I am currently completing a double degree in Electrical and Computer Systems Engineering (ECSE) and Science with an extended major in Computational Science at Monash University.

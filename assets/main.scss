@@ -1,0 +1,68 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.preview-container::after { 
+    content: " ";
+    display: block; 
+    height: 0; 
+    clear: both;
+ }
+ 
+
+.preview-thumbnail {
+    width: 250px;
+    float: left;
+    margin: 0 15px 15px 0;
+}
+
+.embedded-4by3 {
+    width: 100%;
+    aspect-ratio: 4/3;
+}
+
+$github-colour: rgb(101, 109, 118);
+
+.github-bookmark {
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 1px;
+    border-color: $github-colour;
+    padding: 3px 10px 3px 10px;
+    margin-bottom: 13px;
+}
+
+.github-bookmark h4 {
+    margin-bottom: 0;
+    color: $github-colour;
+}
+
+.github-bookmark p {
+    margin-bottom: 5px;
+    font-size: 14px;
+    color: $github-colour;
+}
+
+.github-bookmark img {
+    margin-bottom: 7px;
+}
+
+.github-explainer {
+    font-size: 14px;
+    float: right;
+    vertical-align: text-top;
+    font-style: italic;
+}
+
+.github-repo-icon {
+    fill: $github-colour;
+}
+
+@media only screen and (max-width: 600px) {
+    .preview-thumbnail {
+        width: 100%;
+        float: none;
+        margin: 0 0 15px 0;
+    }
+}
