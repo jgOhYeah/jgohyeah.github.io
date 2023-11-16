@@ -1,0 +1,11 @@
+
+<div>
+    <img src="{{ include.src }}" alt="{{ include.alt }}">
+    <p class="caption">
+        {%- if include.caption -%}
+            {{ include.caption }}
+        {%- else -%}
+            {{ include.alt }}
+        {%- endif -%}
+    </p>
+</div>

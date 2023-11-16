@@ -36,6 +36,11 @@ p {
     aspect-ratio: 4/3;
 }
 
+.embedded-16by9 {
+    width: 100%;
+    aspect-ratio: 16/9;
+}
+
 $github-colour: rgb(101, 109, 118);
 
 .github-bookmark {
@@ -52,7 +57,7 @@ $github-colour: rgb(101, 109, 118);
     color: $github-colour;
 }
 
-.github-bookmark p {
+.github-bookmark p, .caption {
     margin-bottom: 5px;
     font-size: 14px;
     color: $github-colour;
@@ -81,9 +86,14 @@ $github-colour: rgb(101, 109, 118);
 }
 
 @media only screen and (max-width: 600px) {
-    .preview-thumbnail {
+    .preview-thumbnail-container {
         width: 100%;
         float: none;
         margin: 0 0 15px 0;
+    }
+
+    .preview-thumbnail {
+        max-width: 100%;
+        max-height: 250px;
     }
 }

@@ -4,19 +4,21 @@ title:  "Model solar car racing"
 date:   2016-10-16 00:00:00 +1100
 categories: solarcar
 tags: electronics machining solar vmsvc
-thumbnail: ""
+thumbnail: "/assets/images/2016-solar-car.jpg"
 ---
 
-For five years I designed, built and raced model solar cars. This was part of the [Victorian Model Solar Vehicle Challenge (VMSVC)](https://www.modelsolar.org.au/) held at Scienceworks and the Australian-International Model Solar Vehicle Challenge (AIMSVC).
+For five years I designed, built and raced model solar cars. This was part of the [Victorian Model Solar Vehicle Challenge (VMSVC)](https://www.modelsolar.org.au/) held at Scienceworks and the [Australian-International Model Solar Vehicle Challenge (AIMSVC)](https://www.modelsolarchallenge.com.au/).
 
-| Year  | Vehicle        |    Team Members    | Events competed at                                                  | Solar panel                                            |       Electronics (MPPT)       |     Motor      | Chassis                                                                                                                                        |
+<!-- | Year  | Vehicle        |    Team Members    | Events competed at                                                  | Solar panel                                            |       Electronics (MPPT)       |     Motor      | Chassis                                                                                                                                        |
 | :---: | :------------- | :----------------: | :------------------------------------------------------------------ | :----------------------------------------------------- | :----------------------------: | :------------: | :--------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2012  | Humpty 01      | Tyrell L, Jotham G | VMSVC Sheridan Kit Car                                              | Commercial                                             |              None              |    Brushed     | Monocoque folded plastic                                                                                                                       |
 | 2013  | Humpty 02      |      Jotham G      | VMSVC, AIMSVC (held in Victoria)                                    | Homemade (1st had some shorted cells, second was good) |      Scorpio electronics       | Faulhaber 2232 | Monocoque balsawood                                                                                                                            |
 | 2014  | Humpty 03      |      Jotham G      | VMSVC                                                               | Homemade (unreliable)                                  |      Scorpio electronics       | Faulhaber 2232 | Carbon fibre arrowshaft joined using epoxy coated thread, folded plastic body                                                                  |
 | 2014  | Humpty 03 MkII |      Jotham G      | AIMSVC (held in NSW)                                                | Commercial (~10W, 16V)                                 |            Automax?            | Faulhaber 2232 | Carbon fibre arrowshaft joined using epoxy coated thread, folded plastic body                                                                  |
 | 2015  | Humpty 04      |      Jotham G      | VMSVC, AIMSVC (held at the World Solar Challenge finish line in SA) | Commercial (~10W, 16V)                                 | Homemade, based on BHHS design | Faulhaber 2232 | Aluminium and carbon fibre arrowshaft composite joined using aluminium blocks with holes and grub screws, folded plastic body                  |
-| 2016  | Humpty 05      |      Jotham G      | VMSVC, AIMSVC (held in Victoria)                                    | Commercial (~10W, 16V)                                 |            Automax             | Faulhaber 2232 | Aluminium and carbon fibre arrowshaft composite joined using aluminium blocks with holes and grub screws, folded plastic body, castor steering |
+| 2016  | Humpty 05      |      Jotham G      | VMSVC, AIMSVC (held in Victoria)                                    | Commercial (~10W, 16V)                                 |            Automax             | Faulhaber 2232 | Aluminium and carbon fibre arrowshaft composite joined using aluminium blocks with holes and grub screws, folded plastic body, castor steering | -->
+
+{%- include captioned-image.html src="/assets/images/2016-solar-car.jpg" alt="Humpty 05 (left) racing in the 2016 Victorian Model Solar Vehicle Challenge" -%}
 
 ## Humpy 01
 Humpty 01 is a Sheridan kit car built from a kit of parts with provided instructions. A school friend and I built this car for and raced it in the 2012 Victorian Model Solar Vehicle Challenge. This was my first experience with solar panels and the concept of matching the power output of solar panels, motors and gearing for best performance.
@@ -56,4 +58,15 @@ I designed the differential housing using [OpenSCAD](https://openscad.org/) and 
 
 This vehicle won the Victorian event in 2016 and was awarded joint best engineered car alongside a two wheeled car. The poster submitted also received an award.
 
-<iframe width="560" height="315" class="centred" src="https://www.youtube.com/embed/vjSzcoZUqPQ?si=AvgMrF7kTpE8bvZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="embedded-16by9" src="https://www.youtube.com/embed/vjSzcoZUqPQ?si=AvgMrF7kTpE8bvZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Other events
+I have volunteered with the Sheridan Kit Car division of the VMSVC several times since I finished racing and have taken vehicles I have built to several exhibition events including:
+- 2013 Avalon air show with Humpty 01.
+- An exhibition in Jeff's shed (can't remember precise details).
+- [2017 VMSVC](https://youtu.be/q32cP7OWZos).
+- [2018 EV Expo](https://youtu.be/__geP4_VqYg) with Humpty 04 and Humpty 05.
+- 2018 Shepparton car show with Humpty 05.
+- [2018 VMSVC](https://youtu.be/QLc6vT73KbU).
+- 2022 VMSVC.
+- 2023 VMSVC.

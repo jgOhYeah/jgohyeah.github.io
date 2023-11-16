@@ -14,7 +14,7 @@ The official github repository:
 
 Muons are created when cosmic rays interact with the Earth's atmosphere. Whilst these subatomic particles travel extremely quickly, they are unstable and have an extremely short half life. This half life is so short that statistically muons should not be able to reach the surface of the Earth if relativitstic effects did not apply. Due to time dilation, it is much more likely for muons to reach the Earth's surface and be counted by a detector.
 
-![Muon detectors showing their counts](/assets/images/2018-07-31-muon-detector.jpg)
+{%- include captioned-image.html src="/assets/images/2018-07-31-muon-detector.jpg" alt="Muon detectors showing their counts." -%}
 
 I ended up building two detectors due to the relative costs of the silicon photomultiplier and its postage. This had the advantage that multiple detectors can be linked together for improved rejection of detections caused by things other than muons. This was my first significant experience with surface mount technology. In the end, both detectors were successfully built and last I heard, were still being used.
 
