@@ -9,16 +9,130 @@ thumbnail: "/assets/images/2016-solar-car.jpg"
 
 For five years I designed, built and raced model solar cars. This was part of the [Victorian Model Solar Vehicle Challenge (VMSVC)](https://www.modelsolar.org.au/) held at Scienceworks and the [Australian-International Model Solar Vehicle Challenge (AIMSVC)](https://www.modelsolarchallenge.com.au/).
 
-<!-- | Year  | Vehicle        |    Team Members    | Events competed at                                                  | Solar panel                                            |       Electronics (MPPT)       |     Motor      | Chassis                                                                                                                                        |
-| :---: | :------------- | :----------------: | :------------------------------------------------------------------ | :----------------------------------------------------- | :----------------------------: | :------------: | :--------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2012  | Humpty 01      | Tyrell L, Jotham G | VMSVC Sheridan Kit Car                                              | Commercial                                             |              None              |    Brushed     | Monocoque folded plastic                                                                                                                       |
-| 2013  | Humpty 02      |      Jotham G      | VMSVC, AIMSVC (held in Victoria)                                    | Homemade (1st had some shorted cells, second was good) |      Scorpio electronics       | Faulhaber 2232 | Monocoque balsawood                                                                                                                            |
-| 2014  | Humpty 03      |      Jotham G      | VMSVC                                                               | Homemade (unreliable)                                  |      Scorpio electronics       | Faulhaber 2232 | Carbon fibre arrowshaft joined using epoxy coated thread, folded plastic body                                                                  |
-| 2014  | Humpty 03 MkII |      Jotham G      | AIMSVC (held in NSW)                                                | Commercial (~10W, 16V)                                 |            Automax?            | Faulhaber 2232 | Carbon fibre arrowshaft joined using epoxy coated thread, folded plastic body                                                                  |
-| 2015  | Humpty 04      |      Jotham G      | VMSVC, AIMSVC (held at the World Solar Challenge finish line in SA) | Commercial (~10W, 16V)                                 | Homemade, based on BHHS design | Faulhaber 2232 | Aluminium and carbon fibre arrowshaft composite joined using aluminium blocks with holes and grub screws, folded plastic body                  |
-| 2016  | Humpty 05      |      Jotham G      | VMSVC, AIMSVC (held in Victoria)                                    | Commercial (~10W, 16V)                                 |            Automax             | Faulhaber 2232 | Aluminium and carbon fibre arrowshaft composite joined using aluminium blocks with holes and grub screws, folded plastic body, castor steering | -->
-
 {%- include captioned-image.html src="/assets/images/2016-solar-car.jpg" alt="Humpty 05 (left) racing in the 2016 Victorian Model Solar Vehicle Challenge" -%}
+
+## Vehicles summary
+<style>
+    .table-centre {
+        text-align: center;
+    }
+
+    .table-right {
+        text-align: right;
+    }
+</style>
+
+<table class="table-sideways">
+    <thead>
+        <tr>
+            <th class="table-centre">Year</th>
+            <th class="table-centre">Car</th>
+            <th>Events competed at</th>
+            <th>Solar panel</th>
+            <th>Electronics (MPPT)</th>
+            <th>Chassis</th>
+            <th>Awards</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class="table-centre">2012</td>
+            <td class="table-centre">
+                <a href="#humpty-01">Humpty 01</a>
+            </td>
+            <td>VMSVC Sheridan Kit Car</td>
+            <td>Commercial</td>
+            <td>None</td>
+            <td>Monocoque folded plastic</td>
+            <td>
+                <ul>
+                    <li>VMSVC kit car 1st place</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td class="table-centre">2013</td>
+            <td class="table-centre">
+                <a href="#humpty-02">Humpty 02</a>
+            </td>
+            <td>VMSVC, AIMSVC (held in Victoria)</td>
+            <td>Homemade (1st had some shorted cells, second was good)</td>
+            <td>Scorpio electronics</td>
+            <td>Monocoque balsawood</td>
+            <td>
+                <ul>
+                    <li>VMSVC best engineered car</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td class="table-centre">2014</td>
+            <td class="table-centre">
+                <a href="#humpty-03">Humpty 03</a>
+            </td>
+            <td>VMSVC</td>
+            <td>Homemade (unreliable)</td>
+            <td>Scorpio electronics</td>
+            <td>Carbon fibre arrowshaft joined using epoxy coated thread, folded plastic body</td>
+            <td>
+                <ul>
+                    <li>VMSVC best team effort</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td class="table-centre">2014</td>
+            <td class="table-centre">
+                <a href="#humpty-03">Humpty 03 MkII</a>
+            </td>
+            <td>AIMSVC (held in NSW)</td>
+            <td>Commercial (~10W, 16V)</td>
+            <td>Automax</td>
+            <td>Carbon fibre arrowshaft joined using epoxy coated thread, folded plastic body</td>
+            <td>
+                <ul>
+                    <li>AIMSVC best poster</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td class="table-centre">2015</td>
+            <td class="table-centre">
+                <a href="#humpty-04">Humpty 04</a>
+            </td>
+            <td>VMSVC, AIMSVC (held at the World Solar Challenge finish line in SA)</td>
+            <td>Commercial</td>
+            <td>Homemade, based on BHHS design</td>
+            <td>Aluminium and carbon fibre arrowshaft composite joined using aluminium blocks with holes and grub
+                screws,
+                folded plastic body</td>
+            <td>
+                <ul>
+                    <li>AIMSVC best poster</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td class="table-centre">2016</td>
+            <td class="table-centre">
+                <a href="#humpty-05">Humpty 05</a>
+            </td>
+            <td>VMSVC, AIMSVC (held in Victoria)</td>
+            <td>Commercial (~10W, 16V)</td>
+            <td>Automax</td>
+            <td>Aluminium and carbon fibre arrowshaft composite joined using aluminium blocks with holes and grub
+                screws,
+                folded plastic body, castor steering</td>
+            <td>
+                <ul>
+                    <li>VMSVC student designed car 1st place</li>
+                    <li>VMSVC joint best engineered car</li>
+                    <li>VMSVC best poster</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ## Humpy 01
 Humpty 01 is a Sheridan kit car built from a kit of parts with provided instructions. A school friend and I built this car for and raced it in the 2012 Victorian Model Solar Vehicle Challenge. This was my first experience with solar panels and the concept of matching the power output of solar panels, motors and gearing for best performance.
@@ -42,19 +156,19 @@ Potting the solar panels was another challenge. Our first panels used balsawood 
 ## Humpty 03
 Humpty 03 went to a four wheeled ladder chassis design that aimed to keep the weight as low as possible. The car that raced at the Victorian event had issues with the breakover angle and left a bit to be desired in terms of optimisations and appearances. An entirely new chassis and body were built for the national event that incorporated lessons learnt from the Victorian event.
 
-<object data="/assets/docs/2014-humpty-03-mk2-poster_small.pdf" width="100%" height="600px" type="application/pdf"></object>
+<object data="/assets/docs/2014-humpty-03-mk2-poster_small.pdf" class="pdf-document" type="application/pdf"></object>
 
 ## Humpty 04
 In some ways, this ended up being the practice run for Humpty 05. This vehicle also used a ladder chassis with folded plastic body, however used aluminium blocks that could be easily adjusted and modified as needed instead of glueing the chassis beams together as in Humpty 03. This turned out to be quite a reliable and well performing car.
 
-<object data="/assets/docs/2015-humpty-04-poster_small.pdf" width="100%" height="600px" type="application/pdf"></object>
+<object data="/assets/docs/2015-humpty-04-poster_small.pdf" class="pdf-document" type="application/pdf"></object>
 
 ## Humpty 05
-This is the last model solar car that I have built for this competition. A major design feature of this oh ack ls through a differential instead of driving a signle wheel like most model solar cars. This has the advantage of reducing wheel slip on vehicle start without using "O" rings as tyres that increase rolling resistance.
+This is the last model solar car that I have built for this competition. A major design feature of this driving the back wheels through a differential instead of driving a single wheel like most model solar cars. This has the advantage of reducing wheel slip on vehicle start without using "O" rings as tyres that increase rolling resistance.
 
-<object data="/assets/docs/2016-humpty-05-poster_small.pdf" width="100%" height="600px" type="application/pdf"></object>
+<object data="/assets/docs/2016-humpty-05-poster_small.pdf" class="pdf-document" type="application/pdf"></object>
 
-I designed the differential housing using [OpenSCAD](https://openscad.org/) and one of my school teachers and a friend 3D printed its parts. This was my first experience of using 3D CAD and 3D printing, so it was quite the learning curve. I wasss not sure over the accuracy of the printed parts, so designed them to be machined down later. The differential was a great success and the car often visibly accelerated faster than its competitors whilst still having a high top speed.
+I designed the differential housing using [OpenSCAD](https://openscad.org/) and one of my school teachers and a friend 3D printed its parts. This was my first experience of using 3D CAD and 3D printing, so it was quite the learning curve. I was not sure of the dimensional accuracy of the printed parts, so designed them to be machined later. The differential was a great success and the car often visibly accelerated faster than its competitors whilst still having a high top speed.
 
 This vehicle won the Victorian event in 2016 and was awarded joint best engineered car alongside a two wheeled car. The poster submitted also received an award.
 
