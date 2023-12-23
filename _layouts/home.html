@@ -24,26 +24,28 @@ layout: base
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
-      <li>
-        <!-- <span class="post-meta">{{ post.date | date: date_format }}</span> -->
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          <div class="preview-container">
-            {%- if post.thumbnail -%}
-            <div class="preview-thumbnail-container">
-              <a href="{{ post.url | relative_url }}">
-                <img class="preview-thumbnail" src="{{ post.thumbnail }}" alt="Thumbnail for {{ post.title }}">
+        {%- if page.tag_filter == nil or post.tags contains page.tag_filter -%}
+          <li>
+            <!-- <span class="post-meta">{{ post.date | date: date_format }}</span> -->
+            <h3>
+              <a class="post-link" href="{{ post.url | relative_url }}">
+                {{ post.title | escape }}
               </a>
-            </div>
+            </h3>
+            {%- if site.show_excerpts -%}
+              <div class="preview-container">
+                {%- if post.thumbnail -%}
+                <div class="preview-thumbnail-container">
+                  <a href="{{ post.url | relative_url }}">
+                    <img class="preview-thumbnail" src="{{ post.thumbnail }}" alt="Thumbnail for {{ post.title }}">
+                  </a>
+                </div>
+                {%- endif -%}
+                {{ post.excerpt }}
+              </div>
             {%- endif -%}
-            {{ post.excerpt }}
-          </div>
+          </li>
         {%- endif -%}
-      </li>
       {%- endfor -%}
     </ul>
 

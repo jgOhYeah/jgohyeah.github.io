@@ -3,7 +3,7 @@ layout: post
 title:  "Model solar car racing"
 date:   2016-10-16 00:00:00 +1100
 categories: solarcar
-tags: electronics machining solar vmsvc
+tags: electronics machining solar vmsvc microcontrollers
 thumbnail: "/assets/images/2016-solar-car.jpg"
 ---
 

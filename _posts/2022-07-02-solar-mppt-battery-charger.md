@@ -3,7 +3,7 @@ layout: post
 title: "Solar MPPT Battery charger"
 date: 2022-07-02 00:00:00 +1100
 categories: farm
-tags: picaxe solar electronics
+tags: farm picaxe solar electronics microcontrollers
 thumbnail: "https://github.com/jgOhYeah/Solar-MPPT-Boost-Lead-Acid-Battery-Charger/raw/master/Photos/Inside.jpg"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "Tractor watchdog"
 date: 2023-11-06 00:00:00 +1100
 categories: farm
-tags: farm pjon lora arduino university
+tags: farm pjon lora arduino university microcontrollers
 thumbnail: "/assets/images/2023-10-14-tractor-watchdog.jpg"
 ---
 

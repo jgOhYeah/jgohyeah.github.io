@@ -12,6 +12,10 @@ Back in July 2020, I set up an old phone and an assortment of other parts in a
 new tree plantation to watch the trees (and grass) grow. Over the following
 three years it has taken well over 130,000 photos.
 
+<div class="github-bookmark">
+<h1>Note 23/12/2023: I am in the process of getting the latest photos off the camera and turning it into a video. Hopefully this will be uploaded in a few days' time.</h1>
+</div>
+
 <iframe class="embedded-4by3" src="https://www.youtube-nocookie.com/embed/rbYAF5bh35Q?si=PYAyyCMEaW7cNv19" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 

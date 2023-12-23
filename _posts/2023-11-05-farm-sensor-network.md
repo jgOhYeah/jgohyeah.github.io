@@ -3,7 +3,7 @@ layout: post
 title: "Farm sensor network"
 date: 2023-11-05 00:00:00 +1100
 categories: farm
-tags: farm pjon lora picaxe arduino esp32 "raspberry pi" thingsboard IOT university
+tags: farm pjon lora picaxe arduino esp32 "raspberry pi" thingsboard IOT university microcontrollers
 thumbnail: "https://github.com/jgOhYeah/Farm-PJON-LoRa-network/blob/main/Pictures/BatteryMonitor.jpg?raw=true"
 ---
 

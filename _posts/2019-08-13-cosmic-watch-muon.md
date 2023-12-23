@@ -3,7 +3,7 @@ layout: post
 title:  "Cosmic watch muon detectors"
 date:   2019-08-13 00:00:00 +1100
 categories: electronics
-tags: arduino electronics project school
+tags: arduino electronics project school microcontrollers
 thumbnail: /assets/images/2018-07-31-muon-detector.jpg
 ---
 
