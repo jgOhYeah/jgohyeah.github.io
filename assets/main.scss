@@ -90,6 +90,21 @@ $github-colour: rgb(101, 109, 118);
     height: 600px;
 }
 
+.webpage-iframe {
+    width:133%;
+    height: 1200px;
+    -moz-transform: scale(0.75, 0.75); 
+    -webkit-transform: scale(0.75, 0.75); 
+    -o-transform: scale(0.75, 0.75);
+    -ms-transform: scale(0.75, 0.75);
+    transform: scale(0.75, 0.75); 
+    -moz-transform-origin: top left;
+    -webkit-transform-origin: top left;
+    -o-transform-origin: top left;
+    -ms-transform-origin: top left;
+    transform-origin: top left;
+}
+
 @media only screen and (max-width: 600px) {
     .preview-thumbnail-container {
         width: 100%;
