@@ -134,7 +134,7 @@ For five years I designed, built and raced model solar cars. This was part of th
     </tbody>
 </table>
 
-## Humpy 01
+## Humpty 01
 Humpty 01 is a Sheridan kit car built from a kit of parts with provided instructions. A school friend and I built this car for and raced it in the 2012 Victorian Model Solar Vehicle Challenge. This was my first experience with solar panels and the concept of matching the power output of solar panels, motors and gearing for best performance.
 
 The name "Humpty 01" is short for "Humpty Dumpty" and is named after the provision in the design for an egg to be carried as a "driver". This name stuck for all future model solar cars I built.
@@ -149,17 +149,17 @@ In an effort to keep costs down, Dad and I had several attempts at making our ow
 
 A significant challenge when making solar panels that will be reliable is thermal expansion. Solar cells are easy to crack, which can do anything from reducing the performance of the panel to completely disabling it. When exposed to many thermal cycles as experienced when placed in and removed from sunlight, any difference in the expansion rate of the cells and surrounding materials may rip the cells apart. Fibreglass and silicon cells are both made of glass, so hopefully behave similarly enough to reduce this issue.
 
-We found that for our home workshop, it is best for the cells to be cut so that there are multiple bus bars attached to each cell. This allows for improved redundancy in the event of a cell cracking or joing failing.
+We found that for our home workshop, it is best for the cells to be cut so that there are multiple bus bars attached to each cell. This allows for improved redundancy in the event of a cell cracking or join failing.
 
-Potting the solar panels was another challenge. Our first panels used balsawood as a permenantly attached mould. This had the interesting side effect of causing the panel to curve like a bimetalic strip depending on the temperature and humidity. Our next panels were made by casting the cells into a tray of resin. This worked ok, although the resign was quite thick in spots. It would probably be better to brush the resin on or vacuum infuse it to reduce the amount of excess.
+Potting the solar panels was another challenge. Our first panels used balsawood as a permanently attached mould. This had the interesting side effect of causing the panel to curve like a bimetallic strip depending on the temperature and humidity. Our next panels were made by casting the cells into a tray of resin. This worked ok, although the resin was quite thick in spots. It would probably be better to brush the resin on or vacuum infuse it to reduce the amount of excess.
 
 ## Humpty 03
-Humpty 03 went to a four wheeled ladder chassis design that aimed to keep the weight as low as possible. The car that raced at the Victorian event had issues with the breakover angle and left a bit to be desired in terms of optimisations and appearances. An entirely new chassis and body were built for the national event that incorporated lessons learnt from the Victorian event.
+Humpty 03 went to a four wheeled ladder chassis design that aimed to keep the weight as low as possible. The car that raced at the Victorian event had issues with the break over angle and left a bit to be desired in terms of optimisations and appearances. An entirely new chassis and body were built for the national event that incorporated lessons learnt from the Victorian event.
 
 <object data="/assets/docs/2014-humpty-03-mk2-poster_small.pdf" class="pdf-document" type="application/pdf"></object>
 
 ## Humpty 04
-In some ways, this ended up being the practice run for Humpty 05. This vehicle also used a ladder chassis with folded plastic body, however used aluminium blocks that could be easily adjusted and modified as needed instead of glueing the chassis beams together as in Humpty 03. This turned out to be quite a reliable and well performing car.
+In some ways, this ended up being the practice run for Humpty 05. This vehicle also used a ladder chassis with folded plastic body, however used aluminium blocks that could be easily adjusted and modified as needed instead of gluing the chassis beams together as in Humpty 03. This turned out to be quite a reliable and well performing car.
 
 <object data="/assets/docs/2015-humpty-04-poster_small.pdf" class="pdf-document" type="application/pdf"></object>
 

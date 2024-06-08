@@ -13,5 +13,5 @@ that I and some friends made.
 
 To read more and play online click here: [https://jgohyeah.github.io/HPVSimulator/](https://jgohyeah.github.io/HPVSimulator/).
 
-The source code is in a github repository:
-{%- include github-bookmark.html name="HPVSimulatorSource" description="Source code for a game created with Unity 2017.1.1f1 on windows." url="https://github.com/jgOhYeah/HPVSimulatorSource"-%}
+The source code is in a GitHub repository:
+{%- include github-bookmark.html name="HPVSimulatorSource" description="Source code for a game created with Unity 2017.1.1f1 on Windows." url="https://github.com/jgOhYeah/HPVSimulatorSource"-%}

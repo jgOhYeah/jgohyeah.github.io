@@ -7,7 +7,7 @@ tags: HPV electronics teamwork machining bicycles
 thumbnail: "/assets/images/2019-hpv-racing.jpg"
 ---
 
-I was a member of the Kingswood College Human Powered Vehicle (HPV) racing team for three years from 2017 to 2019. We competed in three races each year, culminating in the Energy Breakthrough held in Maryborough. This contains a 24 hour endurance race where a team of eight riders complete as many laps as possible on a track with often over 100 vehicles on it.
+I was a member of the Kingswood College Human Powered Vehicle (HPV) racing team for three years from 2017 to 2019. We competed in three races each year, culminating in the Energy Breakthrough held in Maryborough. This contains a 24-hour endurance race where a team of eight riders complete as many laps as possible on a track with often over 100 vehicles on it.
 
 {%- include captioned-image.html src="/assets/images/2019-hpv-racing.jpg" alt="Jotham riding Evo during the 2019 Maryborough Energy Breakthrough qualifying session." -%}
 

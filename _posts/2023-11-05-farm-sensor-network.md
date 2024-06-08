@@ -17,7 +17,7 @@ The current sensors and devices include:
 Planned additions include:
 - Remote monitoring of the [tractor used to power the irrigation pump]({% link _posts/2023-11-06-farm-tractor-watchdog.md %}).
 
-{%- include captioned-image.html src="/assets/images/2023-06-27-thingsboard.png" alt="Screenshots from the Thinsboard dashboard." -%}
+{%- include captioned-image.html src="/assets/images/2023-06-27-thingsboard.png" alt="Screenshots from the Thingsboard dashboard." -%}
 
 ## Current (ESP32 based) base station
 I snuck this in as part of a FIT3146 assignment at uni and have added a bit to it since. Doxygen documentation is available [here](https://jgohyeah.github.io/FarmBaseStation/).
@@ -26,7 +26,7 @@ I snuck this in as part of a FIT3146 assignment at uni and have added a bit to i
 
 {%- include captioned-image.html src="https://github.com/jgOhYeah/FarmBaseStation/blob/main/Photos/Completed.jpg?raw=true" alt="The base station disguised." -%}
 
-### Demonstation
+### Demonstration
 A short demonstration video of the base station:
 <iframe class="embedded-16by9" src="https://www.youtube-nocookie.com/embed/4jaKtZgRFBU?si=QCZzqgoIEKC1PZCp&amp;start=39" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
