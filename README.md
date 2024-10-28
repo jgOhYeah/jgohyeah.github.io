@@ -6,7 +6,7 @@ Uses Jekyll to generate the static HTML components.
 Go to [jgohyeah.github.io](jgohyeah.github.io) to see the page in a more easily readable format.
 
 ## Usage
-Github pages is set to automatically deploy the main branch upon push. For local development, see [this guide](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll). In short:
+GitHub pages is set to automatically deploy the main branch upon push. For local development, see [this guide](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll). In short:
 
 1. Install Ruby and Jekyll.
 2. `cd` to this folder.
@@ -21,9 +21,9 @@ Github pages is set to automatically deploy the main branch upon push. For local
 
 Where:
 - `REPO_NAME` is the name of the repository.
-- `REPO_DESC` is the descritpion / subtitle.
+- `REPO_DESC` is the description / subtitle.
 - `REPO_URL` is the URL.
-- `REPO_THUMBNAIL_OPTIONAL` is the URL (relative or absolute) of an image thumbnail. This doesn't need to be provided if there isn't a relevent thumbnail.
+- `REPO_THUMBNAIL_OPTIONAL` is the URL (relative or absolute) of an image thumbnail. This doesn't need to be provided if there isn't a relevant thumbnail.
 
 ### Captioned images
 <pre>
@@ -35,7 +35,7 @@ Where:
 - `IMAGE_ALT_TEXT` is the alternate text for the image.
 - `IMAGE_CAPTION_OPTIONAL` is the caption. If this isn't provided then the alternate text will be used as the caption instead.
 
-### Youtube videos
+### YouTube videos
 - Use the *Share > Embed* menu to generate an `iframe`. Enable the *Privacy Enhance Mode* and copy the text.
 - Paste in the page and delete the `width` and `height` attributes. Replace these with `class="embedded-4by3"` or `class="embedded-16by9"` depending on the aspect ratio.
 

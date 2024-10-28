@@ -4,3 +4,13 @@
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qtimelapse-deflicker is used to reduce some flicker and exposure differences between frames.\\E$"}
 {"rule":"EN_A_VS_AN","sentence":"^\\QOnce launched, they have an 8km run up to get up to speed.\\E$"}
 {"rule":"SOME_OF_THE","sentence":"^\\QSome of the electronics and software were playing up a little over the event, however the team worked hard to resolve the issues and keep Bilby running at the best it has ever been.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qjgohyeah.github.io\nUser Website.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_AU","sentence":"^\\Qjgohyeah.GitHub.io\nUser Website.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qjgohyeah.GitHub.io\nUser Website.\\E$"}
+{"rule":"GITHUB","sentence":"^\\Qjgohyeah.github.io\nUser Website.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_AU","sentence":"^\\Qjgohyeah.github.io\nUser Website.\\E$"}
+{"rule":"GITHUB","sentence":"^\\QGo to jgohyeah.github.io to see the page in a more easily readable format.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_AU","sentence":"^\\QGo to jgohyeah.github.io to see the page in a more easily readable format.\\E$"}
+{"rule":"EN_A_VS_AN","sentence":"^\\QYouTube videos\nUse the Share > Embed menu to generate an \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q.\\E$"}
+{"rule":"MISSING_GENITIVE","sentence":"^\\QYouTube videos\nUse the Share > Embed menu to generate an \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q.\\E$"}
+{"rule":"EN_A_VS_AN","sentence":"^\\QOther web pages\nUse an \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q with the \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q class.\\E$"}
