@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-p {
+p, li {
     text-align: justify;
 }
 
@@ -61,6 +61,10 @@ $github-colour: rgb(101, 109, 118);
     margin-bottom: 5px;
     font-size: 14px;
     color: $github-colour;
+}
+
+img {
+    width: 100%;
 }
 
 .github-bookmark img {

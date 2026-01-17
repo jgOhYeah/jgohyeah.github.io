@@ -10,7 +10,7 @@ GitHub pages is set to automatically deploy the main branch upon push. For local
 
 1. Install Ruby and Jekyll.
 2. `cd` to this folder.
-3. Run `bundle3.0 exec jekyll serve`.
+3. Run `bundle3.2 exec jekyll serve`.
 4. Access the page in a web browser at [`http://localhost:4000`](http://localhost:4000).
 
 ## Useful templates / includes

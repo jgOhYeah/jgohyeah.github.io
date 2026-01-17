@@ -16,7 +16,7 @@ The camera is powered via a micro-USB connector. Instead of using USB signalling
 
 Because of the relatively standard interface and voltages for GPS modules, Dad and I were able to swap out the faulty module for a [ublox neo 6m module](https://www.u-blox.com/en/product/neo-6-series) on a breakout board with voltage regulator and level shifting built in.
 
-{%- include captioned-image.html src="https://core-electronics.com.au/media/catalog/product/cache/d5cf359726a1656c2b36f3682d3bbc67/0/1/018-gy-gps6mv2-2.jpg" alt="A similar module to the new one we installed. Image source: Core Electronics" -%}
+{%- include captioned-image.html src="https://core-electronics.com.au/media/catalog/product/cache/d5cf359726a1656c2b36f3682d3bbc67/0/1/018-gy-gps6mv2-2.jpg" alt="A similar module to the new one we installed. Image source: <a href='https://core-electronics.com.au/u-blox-neo-6m-gps-module.html'>Core Electronics</a>" -%}
 
 ## Root access and automatic startup sounds
 This camera runs a version of Linux. It doesn't have a screen and instead hosts its own Wi-Fi network that allows it to be controlled using a phone app. Because the camera is the access point of the network, it isn't configured to or expected to be connected to the internet. The manufacturer left in enough convenient debugging features that gaining a root shell is not hard. What's more is that the root file system is writable and has some free space! I found that the camera uses busy box for most of its commands and includes the ash shell and a version of AWK.
