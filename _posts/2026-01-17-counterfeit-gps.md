@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Modifying counterfeight GPS modules to make them somewhat usable"
+title:  "Modifying counterfeit GPS modules to make them somewhat usable"
 date:   2026-01-17 00:00:00 +1100
 categories: electronics
 tags: electronics HPV project teamwork engineering microcontrollers

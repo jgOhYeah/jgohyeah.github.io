@@ -1,6 +1,6 @@
 
 <div>
-    <img src="{{ include.src }}" alt="{{ include.alt }}">
+    <img src="{{ include.src }}" {% if include.width %}width="{{ include.width }}"{% endif %} alt="{{ include.alt }}">
     <p class="caption">
         {%- if include.caption -%}
             {{ include.caption }}
